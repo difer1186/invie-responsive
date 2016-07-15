@@ -372,6 +372,9 @@ input:focus, textarea:focus{
 		display: block;
 		font-size: 16px;
 	}
+	.formulario label {
+		font-size: 20px;
+	}
 	.col1 {
 		margin: 0;
 	}
